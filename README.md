@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Web Development
 - 🤔 I’m looking for help with ...Django, Python, React, etc
 - 💬 Ask me about ...Anything 
-- 📫 How to reach me: ...[Gmail:nishanchemjong20000@gmail.com]
+- 📫 How to reach me: ...[Gmail:nishanlimbu.chemjong2000@gmail.com], [facebook: https://www.facebook.com/nishanlimbuchemjong]
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Learning different programming languages,
 -->
