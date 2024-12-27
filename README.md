@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Learning different programming languages, solving problems
 
-![Visitor Count](https://profile-counter.glitch.me/nishanlimbu2000/count.svg)
+Total Visitors: ![Visitor Count](https://profile-counter.glitch.me/nishanlimbu2000/count.svg)
