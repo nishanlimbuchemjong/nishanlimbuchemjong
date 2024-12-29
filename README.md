@@ -1,7 +1,3 @@
-Here’s the updated and more professional version of your `README.md` file, tailored to reflect your journey and aspirations as an aspiring AI Engineer:  
-
----
-
 # Hi there 👋  
 
 I'm **Nishan Limbu** from Lalitpur, Nepal. Currently, I'm a **Bachelor of Computer Applications (BCA)** student in my 7th semester. My passion lies in programming and technology, and I'm on a dedicated journey to becoming an **AI Engineer**, mastering the tools and concepts that will shape the future of technology.  
@@ -9,7 +5,6 @@ I'm **Nishan Limbu** from Lalitpur, Nepal. Currently, I'm a **Bachelor of Comput
 ## 🌟 About Me  
 I am deeply interested in exploring and mastering various programming languages and technologies to build innovative solutions. My journey spans learning **Artificial Intelligence, Machine Learning, Deep Learning, and Mathematics** to create impactful applications and prepare myself for cutting-edge challenges in AI development.  
 
----
 
 ### 🔭 Current Focus  
 - Developing **projects** using a diverse tech stack:  
@@ -19,7 +14,6 @@ I am deeply interested in exploring and mastering various programming languages 
 - Exploring **AI and ML** concepts, algorithms, and frameworks.  
 - Enhancing my skills in mathematical foundations for AI, including **Linear Algebra, Probability, and Statistics**.  
 
----
 
 ### 🌱 Learning Goals  
 - **Artificial Intelligence**: Advanced algorithms, Neural Networks, and Natural Language Processing (NLP).  
@@ -27,22 +21,15 @@ I am deeply interested in exploring and mastering various programming languages 
 - **Deep Learning**: TensorFlow, PyTorch, and advanced neural architectures.  
 - **Mathematics for AI**: Linear Algebra, Calculus, Optimization, and Probability.  
 
----
 
 ### 🤝 Collaboration  
 I’m open to collaborating on **AI and ML projects**, solving real-world problems, and contributing to impactful initiatives. If you share a similar interest, feel free to reach out!  
 
----
 
 ### 💬 Reach Out  
 - 📧 **Email**: [nishanlimbu.chemjong2000@gmail.com](mailto:nishanlimbu.chemjong2000@gmail.com)  
  
 
----
-
 ### ⚡ Fun Fact  
 I love solving complex problems and experimenting with new technologies. My passion for learning keeps me exploring and expanding my technical skill set daily.  
 
----
-
-Feel free to use and adapt this! Let me know if you’d like further tweaks or additional sections.
