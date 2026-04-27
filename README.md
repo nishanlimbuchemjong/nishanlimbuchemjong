@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm **Nishan Limbu** from Lalitpur, Nepal. Currently, I'm a **Bachelor of Computer Applications (BCA)** student in my 7th semester. My passion lies in programming and technology, and I'm on a dedicated journey to becoming an **AI Engineer**, mastering the tools and concepts that will shape the future of technology.  
+I'm **Nishan Limbu** from Lalitpur, Nepal. Currently, I have completed my bachelor degreen in **Bachelor of Computer Applications (BCA)**. My passion lies in programming and technology, and I'm on a dedicated journey to becoming an **AI/ML Engineer**, mastering the tools and concepts that will shape the future of technology.  
 
 ## 🌟 About Me  
 I am deeply interested in exploring and mastering various programming languages and technologies to build innovative solutions. My journey spans learning **Artificial Intelligence, Machine Learning, Deep Learning, and Mathematics** to create impactful applications and prepare myself for cutting-edge challenges in AI development.  
