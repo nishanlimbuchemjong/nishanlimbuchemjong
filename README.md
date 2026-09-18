@@ -1,35 +1,89 @@
-# Hi there 👋  
+# Hi there, I'm Nishan Limbu 👋 🚀
 
-I'm **Nishan Limbu** from Lalitpur, Nepal. Currently, I have completed my bachelor degreen in **Bachelor of Computer Applications (BCA)**. My passion lies in programming and technology, and I'm on a dedicated journey to becoming an **AI/ML Engineer**, mastering the tools and concepts that will shape the future of technology.  
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-## 🌟 About Me  
-I am deeply interested in exploring and mastering various programming languages and technologies to build innovative solutions. My journey spans learning **Artificial Intelligence, Machine Learning, Deep Learning, and Mathematics** to create impactful applications and prepare myself for cutting-edge challenges in AI development.  
+---
 
+### 🌌 The Vision
+> *"The best way to predict the future is to invent it."*  
+I am a **Bachelor of Computer Applications (BCA)** graduate from **Araniko Multiple Campus** (affiliated with **Tribhuvan University**), located in **Lalitpur, Nepal**. Fueled by a relentless passion for programming and technology, I am currently on a dedicated, deep-dive journey to master the complex architectures of **Artificial Intelligence and Machine Learning** to build tools that shape the future.
 
-### 🔭 Current Focus  
-- Developing **projects** using a diverse tech stack:  
-  - **Backend**: Python, Django, Django REST Framework (DRF)  
-  - **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript, React.js  
-  - **Data Science**: NumPy, Pandas, Matplotlib, Scikit-learn  
-- Exploring **AI and ML** concepts, algorithms, and frameworks.  
-- Enhancing my skills in mathematical foundations for AI, including **Linear Algebra, Probability, and Statistics**.  
+---
 
+### 📊 Tech Stack & Toolkit
 
-### 🌱 Learning Goals  
-- **Artificial Intelligence**: Advanced algorithms, Neural Networks, and Natural Language Processing (NLP).  
-- **Machine Learning**: Supervised, Unsupervised, and Reinforcement Learning.  
-- **Deep Learning**: TensorFlow, PyTorch, and advanced neural architectures.  
-- **Mathematics for AI**: Linear Algebra, Calculus, Optimization, and Probability.  
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>🧠 Data Science & AI</strong></td>
+    <td align="center" width="25%"><strong>⚙️ Backend</strong></td>
+    <td align="center" width="25%"><strong>🎨 Frontend</strong></td>
+    <td align="center" width="25%"><strong>📐 Foundations</strong></td>
+  </tr>
+  <tr>
+    <td align="top">
+      • NumPy<br>
+      • Pandas<br>
+      • Matplotlib<br>
+      • Scikit-learn
+    </td>
+    <td align="top">
+      • Python<br>
+      • Django<br>
+      • Django REST (DRF)<br>
+      • FAST API<br>
+      • SQL
+    </td>
+    <td align="top">
+      • HTML5 / CSS3<br>
+      • Bootstrap 5<br>
+      • JavaScript<br>
+      • React.js
+    </td>
+    <td align="top">
+      • Linear Algebra<br>
+      • Probability<br>
+      • Optimization<br>
+      • Calculus
+    </td>
+  </tr>
+</table>
 
+---
 
-### 🤝 Collaboration  
-I’m open to collaborating on **AI and ML projects**, solving real-world problems, and contributing to impactful initiatives. If you share a similar interest, feel free to reach out!  
+### 🚀 Continuous Growth
 
+#### 🔭 Current Focus
+- **Architecting Intelligent Systems:** Bridging the gap between robust backend pipelines (Django/DRF) and predictive ML models.
+- **Deepening Theoretical Frameworks:** Exploring deep neural network architectures and optimizing mathematical models for algorithmic efficiency.
 
-### 💬 Reach Out  
-- 📧 **Email**: [nishanlimbu.chemjong2000@gmail.com](mailto:nishanlimbu.chemjong2000@gmail.com)  
- 
+#### 🌱 Learning Milestones
+- **Advanced AI/ML:** Supervised, Unsupervised, and Reinforcement Learning mechanisms.
+- **Deep Learning Frameworks:** Mastering industry-standard toolkits like **TensorFlow** and **PyTorch** for computer vision and NLP.
 
-### ⚡ Fun Fact  
-I love solving complex problems and experimenting with new technologies. My passion for learning keeps me exploring and expanding my technical skill set daily.  
+---
 
+### 📜 Verified Credentials
+
+*   ![Harvard University](https://shields.io) **CS50's Introduction to Databases with SQL**  
+    *Mastering relational database design, query optimization, and structured data manipulation.*  
+
+<p align="center">
+  <img src="harvard-sql.png" alt="Harvard SQL Certificate" width="80%" style="border-radius: 8px; border: 1px solid #30363d;" />
+</p>
+
+---
+
+### 🤝 Let's Build the Future Together
+I thrive in collaborative, high-energy environments. If you are working on open-source AI initiatives, real-world data science challenges, or innovative software solutions, let's connect!
+
+*   💬 **Let's Talk About:** Artificial Intelligence, Deep Learning architectures, or building scalable backend systems.
+*   📧 **Direct Mail:** [nishanlimbu.chemjong2000@gmail.com](mailto:nishanlimbu.chemjong2000@gmail.com)
+*   🌐 **LinkedIn:** [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/nishan-limbu-80325724b/)
+
+---
+
+<p align="center">
+  <i>"Turning mathematical concepts into executable logic, one repository at a time."</i> 💻⚡
+</p>
