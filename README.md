@@ -1,89 +1,58 @@
-# Hi there, I'm Nishan Limbu 👋 🚀
+# Nishan Limbu
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+**Aspiring AI/ML Engineer | BCA Graduate**  
+📍 Lalitpur, Nepal | 📧 nishanlimbu.chemjong2000@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/nishan-limbu-80325724b/)
+
+---
+
+### About Me
+I am a **Bachelor of Computer Applications (BCA)** graduate from **Araniko Multiple Campus** (affiliated with **Tribhuvan University**). 
+
+My technical passion lies at the intersection of robust backend engineering and applied artificial intelligence. I am deeply focused on mastering the mathematical pillars and architectural designs required to build, optimize, and scale real-world Machine Learning systems.
+
+---
+
+### Technical Expertise
+
+#### 🧠 Data Science & Machine Learning
+*   **Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-learn
+*   **Core Concepts:** Supervised & Unsupervised Learning, Neural Networks, Natural Language Processing (NLP)
+*   **Frameworks in Development:** TensorFlow, PyTorch
+
+#### ⚙️ Backend & Systems
+*   **Languages & Frameworks:** Python, Django, Django REST Framework (DRF), FastAPI
+*   **Databases:** SQL, Relational Database Design & Optimization
+
+#### 🎨 Frontend Foundations
+*   HTML5, CSS3, JavaScript, Bootstrap 5, React.js
+
+#### 📐 Engineering Mathematics
+*   Linear Algebra, Probability & Statistics, Calculus, Optimization Algorithms
+
+---
+
+### Current Focus & Projects
+*   **Intelligent Architectures:** Designing end-to-end applications that bridge structured SQL/NoSQL databases, and predictive ML models.
+*   **Algorithmic Foundations:** Deepening my understanding of neural network operations by studying the underlying calculus and linear algebra optimization techniques.
+
+---
+
+### Certifications
+
+#### 🎓 Harvard University (via CS50)
+**CS50's Introduction to Databases with SQL**  
+*Focused on relational database design, query optimization, programmatic data manipulation, and security.*
+
+<br />
+
+<p align="left">
+  <img src="certificate%20of%20SQL%20from%20harvard.png" alt="Harvard SQL Certification" width="70%" style="border: 1px solid #e1e4e8; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);" />
 </p>
 
 ---
 
-### 🌌 The Vision
-> *"The best way to predict the future is to invent it."*  
-I am a **Bachelor of Computer Applications (BCA)** graduate from **Araniko Multiple Campus** (affiliated with **Tribhuvan University**), located in **Lalitpur, Nepal**. Fueled by a relentless passion for programming and technology, I am currently on a dedicated, deep-dive journey to master the complex architectures of **Artificial Intelligence and Machine Learning** to build tools that shape the future.
+### Collaboration & Contact
+I value open-source contribution and technical collaboration on data pipeline efficiency, backend systems, or machine learning challenges.
 
----
-
-### 📊 Tech Stack & Toolkit
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>🧠 Data Science & AI</strong></td>
-    <td align="center" width="25%"><strong>⚙️ Backend</strong></td>
-    <td align="center" width="25%"><strong>🎨 Frontend</strong></td>
-    <td align="center" width="25%"><strong>📐 Foundations</strong></td>
-  </tr>
-  <tr>
-    <td align="top">
-      • NumPy<br>
-      • Pandas<br>
-      • Matplotlib<br>
-      • Scikit-learn
-    </td>
-    <td align="top">
-      • Python<br>
-      • Django<br>
-      • Django REST (DRF)<br>
-      • FAST API<br>
-      • SQL
-    </td>
-    <td align="top">
-      • HTML5 / CSS3<br>
-      • Bootstrap 5<br>
-      • JavaScript<br>
-      • React.js
-    </td>
-    <td align="top">
-      • Linear Algebra<br>
-      • Probability<br>
-      • Optimization<br>
-      • Calculus
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Continuous Growth
-
-#### 🔭 Current Focus
-- **Architecting Intelligent Systems:** Bridging the gap between robust backend pipelines (Django/DRF) and predictive ML models.
-- **Deepening Theoretical Frameworks:** Exploring deep neural network architectures and optimizing mathematical models for algorithmic efficiency.
-
-#### 🌱 Learning Milestones
-- **Advanced AI/ML:** Supervised, Unsupervised, and Reinforcement Learning mechanisms.
-- **Deep Learning Frameworks:** Mastering industry-standard toolkits like **TensorFlow** and **PyTorch** for computer vision and NLP.
-
----
-
-### 📜 Verified Credentials
-
-*   ![Harvard University](https://shields.io) **CS50's Introduction to Databases with SQL**  
-    *Mastering relational database design, query optimization, and structured data manipulation.*  
-
-<p align="center">
-  <img src="harvard-sql.png" alt="Harvard SQL Certificate" width="80%" style="border-radius: 8px; border: 1px solid #30363d;" />
-</p>
-
----
-
-### 🤝 Let's Build the Future Together
-I thrive in collaborative, high-energy environments. If you are working on open-source AI initiatives, real-world data science challenges, or innovative software solutions, let's connect!
-
-*   💬 **Let's Talk About:** Artificial Intelligence, Deep Learning architectures, or building scalable backend systems.
-*   📧 **Direct Mail:** [nishanlimbu.chemjong2000@gmail.com](mailto:nishanlimbu.chemjong2000@gmail.com)
-*   🌐 **LinkedIn:** [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/nishan-limbu-80325724b/)
-
----
-
-<p align="center">
-  <i>"Turning mathematical concepts into executable logic, one repository at a time."</i> 💻⚡
-</p>
+*   **Topics I enjoy discussing:** Scalable API design, statistical modeling, and deep learning architectures.
+*   **Get in touch:** Drop me an email or connect with me via my LinkedIn profile listed at the top.
